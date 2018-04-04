@@ -30,5 +30,15 @@ public class Main {
 
     /*
      * Exercise 6 (exercise 3 out of the third slide deck),
+     * Create a class that models a GroceryItem
+	 * For our class GroceryItem model, we will say that each one has a name (String),
+	 * selling price (double) and may have an expiration date (String)
+	 * Create the class with the following functions:
+	 * Set/get methods for each property
+	 * 1 default and 2 other constructors of your choice – determine your own default values as you see fit
+	 * 1 predicate method to see if the GroceryItem is expensive (defined as the selling price is greater than a given price)
+	 * 1 predicate method to determine if the GroceryItem has an expiration date (not necessary, but fuck it, why not)
+	 * Next, write a main program that creates at least 2 GroceryItem objects and tests all functions designed
+
      */
 }
